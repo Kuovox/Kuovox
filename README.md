@@ -1,9 +1,9 @@
-# 🌿✨ Kelvin Vu — GitHub Portfolio
+# 🌙🦊 Kelvin Vu — GitHub Portfolio
 <!-- Banner Image --> <p align="center"> <img src="./assets/Plant.gif" alt="Banner" width="100%" /> </p>
 
 # 👋 Welcome to My GitHub Portfolio!
 
-I’m Kelvin Vu, a proactive and goal-driven aspiring Computer Science professional with strengths in time management, problem-solving, and adaptability. I'm recognized for reliability, fast learning, and a genuine passion for innovation and collaboration.
+I’m Kelvin Vu, a proactive, goal-driven Computer Science professional with strengths in time management, problem-solving, and adaptability. I'm recognized for reliability, fast learning, and a genuine passion for innovation and collaboration.
 
 I strive to build impactful, well-structured solutions—whether through machine learning, security analysis, or large-scale network systems. I’m excited to continue growing my technical expertise while contributing meaningfully to team success and organizational goals.
 
