@@ -38,10 +38,10 @@ Hands-on malware analysis labs focused on exploit behavior, disassembly, and sec
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kuovox&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuovox&layout=compact&theme=tokyonight" alt="Top Languages" height="180" /> </p>
 
-##🔥GitHub Streaks
+## 🔥GitHub Streaks
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Kuovox&theme=tokyonight" alt="GitHub Streak" /> </p>
 
-##🏅 GitHub Trophies
+## 🏅 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kuovox&theme=tokyonight&margin-w=15" /> </p>
 
 ---
