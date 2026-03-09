@@ -37,13 +37,11 @@ Hands-on malware analysis labs focused on exploit behavior, disassembly, and sec
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Overall stats card -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuovox&theme=tokyonight"
     alt="GitHub Stats"
     height="180"
   />
-  <!-- Top languages by commits -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kuovox&theme=tokyonight"
     alt="Top Languages"
@@ -51,8 +49,11 @@ Hands-on malware analysis labs focused on exploit behavior, disassembly, and sec
   />
 </p>
 
-## 🔥GitHub Streaks
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Kuovox&theme=tokyonight" alt="GitHub Streak" /> </p>
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kuovox&theme=tokyonight&api_domain=api.github.com" alt="GitHub Streak"/>
+</p>
 
 ## 🏅 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kuovox&theme=tokyonight&margin-w=15" /> </p>
