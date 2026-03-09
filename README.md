@@ -110,7 +110,7 @@ Hands-on cybersecurity labs focused on **malware reverse engineering and exploit
 # 🏅 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kuovox&theme=tokyonight&row=1&column=6&margin-w=15&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kuovox&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
