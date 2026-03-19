@@ -1,4 +1,4 @@
-# 🌙🦊 Kelvin Vu — GitHub Portfolio
+# 🌙🦊 Khoa Vu — GitHub Portfolio
 
 <p align="center">
   <img src="./assets/Plant.gif" alt="Banner" width="100%" />
